@@ -1,5 +1,4 @@
 # School-Stuff
-A collection of Turbo C++ code from the solutions of assignments, tests and exams given at school.
 Hello There,
 This is a collection of the different c++ problems which I have come accross so far.
 As of now, I will be updating this repository quite frequently.
