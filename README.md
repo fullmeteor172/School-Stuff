@@ -7,4 +7,3 @@ found in the repository.
 If you find a bug feel free to add a comment on it so that I can make changes accordingly.
 
 Cheers!
--Meteor(aka.RogueTerminal)
