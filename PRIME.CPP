@@ -1,7 +1,7 @@
 #include<iostream.h>
 #include<conio.h>
 void prime(int num){
-int i=1,loopterminator=0;//I didn't need to i know...
+int i=1,loopterminator=0;//I didn't need to, I know...
 loop:
 do{
 ++i;
@@ -14,7 +14,7 @@ else if(i=32766)//32767 is the range of 'int'
 {
 cout<<"The numer is prime!";
 loopterminator=1;}
-}while(loopterminator!=1);//Hastal vista baby
+}while(loopterminator!=1);//Hasta la vista, baby
 getch();
 
 }
