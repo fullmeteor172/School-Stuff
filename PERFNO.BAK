@@ -1,0 +1,24 @@
+#include<iostream.h>
+#include<conio.h>
+void perf(int num){
+int i=0,sum=0;
+do{
+i=i+1;
+if(num%i==0)
+sum=sum+i;
+}
+while(i<num-1);
+if(num==sum)
+cout<<"It is Perfect!"<<sum;
+else
+cout<<"Imperfect"<<sum;
+getch();
+}
+
+void main(){
+clrscr();
+cout<<"Enter a number: ";
+int input;
+cin>>input;
+perf(input);
+}
